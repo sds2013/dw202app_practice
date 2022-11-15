@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex11_listview.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex13_spinner.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex15_spinner.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex16_intent_receive.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex16_intent_send.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex17_intent_receive.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex17_intent_send.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex21_handler.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex23_layout_calc.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex25_join_ok.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex2_gif.xml" value="0.29674968341072183" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/activity_ex9_img.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/ex11_listview_list_item.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/ex12_listview_list_item.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/frame_1.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/frame_2.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/frame_3.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/frame_4.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/layout_ex20_viewpager2.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/layout_ex25_sqlite_join.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/layout_ex25_sqlite_login.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/admin/Downloads/dw202app_all (30)/app/src/main/res/layout/layout_ex25_sqlite_main.xml" value="0.30055579307396324" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex10_phone1.xml" value="0.4" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex11_listview.xml" value="0.264" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex12_listview.xml" value="0.18896964514749892" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex15_spinner.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex16_intent_receive.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex16_intent_send.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex17_intent_receive.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex17_intent_send.xml" value="0.264" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex18_sharedpreferences.xml" value="0.4" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex19_sharedpreferences.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex1_animation.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex2_gif.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex3_video.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex4_mediao.xml" value="0.25364583333333335" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex5_web_view.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex6_call.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_ex9_img.xml" value="0.1" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_join_ok.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_login.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_logo.xml" value="0.264" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/ex11_listview_list_item.xml" value="0.18896964514749892" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/ex12_listview_list_item.xml" value="0.264" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/fragment_a.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/fragment_b.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/frame_1.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout.xml" value="0.21388888888888888" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_calc.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex12_galleryview.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex13_listview.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex14_viewpager2.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex16_gps.xml" value="0.14749893116716545" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex17_spinner.xml" value="0.1791363830696879" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex18_switch.xml" value="0.1791363830696879" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex20_viewpager2.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex22_fragment.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex24_sharedpreferences.xml" value="0.195382642154767" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex5_handler.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_ex9_sqlite_join.xml" value="0.13809320222317228" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_map.xml" value="0.14749893116716545" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/layout_webview_full.xml" value="0.23802083333333332" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/listview_list_item.xml" value="0.20820863616930313" />
+        <entry key="..\:/abc/dw202app_all/app/src/main/res/layout/sms_send.xml" value="0.20208333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
